@@ -6,3 +6,4 @@
 * [x] [Task 2: Group Creation and User Assignment](./2_Group_Creation_and_User_Assignment/task.md)
 * [x] [Task 3: Linux User Setup with Non-Interactive Shell](./3_Linux_User_Setup_with_Non-Interactive_Shell/task.md)
 * [x] [Task 4: Service User Creation without Home Directory](./4_Service_User_Creation_without_Home_Directory/task.md)
+* [x] [Task 5: Temporary User Setup with Expiry](./5_Temporary_User_Setup_with_Expiry/task.md)
