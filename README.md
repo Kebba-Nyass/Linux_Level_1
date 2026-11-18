@@ -8,3 +8,4 @@
 * [x] [Task 4: Service User Creation without Home Directory](./4_Service_User_Creation_without_Home_Directory/task.md)
 * [x] [Task 5: Temporary User Setup with Expiry](./5_Temporary_User_Setup_with_Expiry/task.md)
 * [x] [Task 6: Linux User Data Transfer](./6_Linux_User_Data_Transfer/task.md) 
+* [x] [Task 7: Secure Root SSH Access](./7_Secure_Root_SSH_Access/task.md) 
